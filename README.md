@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5970892.svg)](https://doi.org/10.5281/zenodo.5970892)
 # Global Causes of Death Data Analysis
 
 This repository contains data and analysis regarding global causes of death, sourced from the most recent publication of the Global Burden of Disease study by the Institute for Health Metrics and Evaluation (IHME) in 2019, as well as the Global Terrorism Database. The data provides insights into the various causes of death globally for the year 2019.
@@ -30,19 +31,9 @@ This dataset can be used for various purposes such as:
 
 If you use this dataset or find the analysis provided here useful, please consider citing the original source:
 
-@article{
-    owid-causes-of-death,
-    author = {Saloni Dattani and Fiona Spooner and Hannah Ritchie and Max Roser},
-    title = {Causes of Death},
-    journal = {Our World in Data},
-    year = {2023},
-    note = {\url{https://ourworldindata.org/causes-of-death}}
-}
+
 
 ## Contributors
 
-- [Hoang Vu](https://github.com/hoangvu1806) - Provide a brief description of your contributions if applicable.
+- [Hoang Vu](https://github.com/hoangvu1806) 
 
-## License
-
-This dataset is provided under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Please refer to the [LICENSE](LICENSE) file for more details.
