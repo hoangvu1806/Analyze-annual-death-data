@@ -31,6 +31,7 @@ This dataset can be used for various purposes such as:
 
 If you use this dataset or find the analysis provided here useful, please consider citing the original source:
 
+Saloni Dattani, Fiona Spooner, Hannah Ritchie and Max Roser (2023) - “Causes of Death” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/causes-of-death' [Online Resource]
 
 
 ## Contributors
