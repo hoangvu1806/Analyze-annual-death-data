@@ -19,6 +19,10 @@ The estimates in the dataset assign each death a single cause based on data on t
   - Code: Country code
   - Year: Year of data
   - Various columns for fatalities due to different causes such as Meningitis, Dementia, Tuberculosis, Cardiovascular, etc.
+  
+### Number of Countries Included
+
+The dataset includes data from 227 countries worldwide.
 
 ## Analysis and Usage
 
