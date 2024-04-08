@@ -22,7 +22,7 @@ The estimates in the dataset assign each death a single cause based on data on t
   
 ### Number of Countries Included
 
-The dataset includes data from 227 countries worldwide.
+The dataset includes data from 216 countries and territories, along with 12 international organizations.
 
 ## Analysis and Usage
 
