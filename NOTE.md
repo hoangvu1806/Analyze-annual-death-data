@@ -35,38 +35,38 @@ Kỹ thuật:
 - Hệ thống hỗ trợ quyết định (DSS): Cung cấp cho người dùng thông tin và công cụ để đưa ra quyết định.
 - Tối ưu hóa: Tìm ra giải pháp tốt nhất cho một vấn đề cụ thể.
 
-    Meningitis fatalities                   Số ca tử vong do bệnh viêm màng não
-    Dementia fatalities                     Số ca tử vong do bệnh mất trí
-    Parkinson’s fatalities                  Số ca tử vong do bệnh Parkinson
-    Nutritional deficiency fatalities       Số ca tử vong do thiếu dinh dưỡng
-    Malaria fatalities                      Số ca tử vong do bệnh sốt rét
-    Drowning fatalities                     Số ca tử vong do chết đuối
-    Interpersonal violence fatalities       Số ca tử vong do bạo lực giữa các cá nhân
-    Maternal disorder fatalities            Số ca tử vong do rối loạn sau khi sinh
-    HIV/AIDS fatalities                     Số ca tử vong do HIV/AIDS
-    Drug disorder fatalities                Số ca tử vong do rối loạn do ma túy
-    Tuberculosis fatalities                 Số ca tử vong do bệnh lao
-    Cardiovascular fatalities               Số ca tử vong do bệnh tim mạch
-    Lower respiratory fatalities            Số ca tử vong do bệnh đường hô hấp dưới
-    Neonatal disorder fatalities            Số ca tử vong do rối loạn sau khi sinh non
-    Alcohol disorder fatalities             Số ca tử vong do rối loạn do rượu
-    Self harm fatalities                    Số ca tử vong do tự tử
-    Forces of nature fatalities             Số ca tử vong do thiên tai
-    Diarrheal disease fatalities            Số ca tử vong do bệnh tiêu chảy
-    Environmental exposure fatalities       Số ca tử vong do tiếp xúc với môi trường
-    Neoplasm fatalities                     Số ca tử vong do u nhọt
-    Conflict fatalities                     Số ca tử vong do xung đột
-    Diabetes fatalities                     Số ca tử vong do bệnh tiểu đường
-    Chronic kidney fatalities               Số ca tử vong do bệnh thận mãn tính
-    Poisoning fatalities                    Số ca tử vong do ngộ độc
-    Protein energy malnutrition fatalities  Số ca tử vong do suy dinh dưỡng do thiếu protein năng lượng
-    Road injury fatalities                  Số ca tử vong do tai nạn giao thông
-    Chronic respiratory fatalities          Số ca tử vong do bệnh đường hô hấp mãn tính
-    Chronic liver fatalities                Số ca tử vong do bệnh gan mãn tính
-    Digestive disease fatalities            Số ca tử vong do bệnh tiêu hóa
-    Fire fatalities                         Số ca tử vong do cháy
-    Acute hepatitis fatalities              Số ca tử vong do viêm gan cấp
-    Measles fatalities                      Số ca tử vong do bệnh sởi
+-    Meningitis fatalities                   Số ca tử vong do bệnh viêm màng não
+-    Dementia fatalities                     Số ca tử vong do bệnh mất trí
+-    Parkinson’s fatalities                  Số ca tử vong do bệnh Parkinson
+-    Nutritional deficiency fatalities       Số ca tử vong do thiếu dinh dưỡng
+-    Malaria fatalities                      Số ca tử vong do bệnh sốt rét
+-    Drowning fatalities                     Số ca tử vong do chết đuối
+-    Interpersonal violence fatalities       Số ca tử vong do bạo lực giữa các cá nhân
+-    Maternal disorder fatalities            Số ca tử vong do rối loạn sau khi sinh
+-    HIV/AIDS fatalities                     Số ca tử vong do HIV/AIDS
+-    Drug disorder fatalities                Số ca tử vong do rối loạn do ma túy
+-    Tuberculosis fatalities                 Số ca tử vong do bệnh lao
+-    Cardiovascular fatalities               Số ca tử vong do bệnh tim mạch
+-    Lower respiratory fatalities            Số ca tử vong do bệnh đường hô hấp dưới
+-    Neonatal disorder fatalities            Số ca tử vong do rối loạn sau khi sinh non
+-    Alcohol disorder fatalities             Số ca tử vong do rối loạn do rượu
+-    Self harm fatalities                    Số ca tử vong do tự tử
+-    Forces of nature fatalities             Số ca tử vong do thiên tai
+-    Diarrheal disease fatalities            Số ca tử vong do bệnh tiêu chảy
+-    Environmental exposure fatalities       Số ca tử vong do tiếp xúc với môi trường
+-    Neoplasm fatalities                     Số ca tử vong do u nhọt
+-    Conflict fatalities                     Số ca tử vong do xung đột
+-    Diabetes fatalities                     Số ca tử vong do bệnh tiểu đường
+-    Chronic kidney fatalities               Số ca tử vong do bệnh thận mãn tính
+-    Poisoning fatalities                    Số ca tử vong do ngộ độc
+-    Protein energy malnutrition fatalities  Số ca tử vong do suy dinh dưỡng do thiếu protein năng lượng
+-    Road injury fatalities                  Số ca tử vong do tai nạn giao thông
+-    Chronic respiratory fatalities          Số ca tử vong do bệnh đường hô hấp mãn tính
+-    Chronic liver fatalities                Số ca tử vong do bệnh gan mãn tính
+-    Digestive disease fatalities            Số ca tử vong do bệnh tiêu hóa
+-    Fire fatalities                         Số ca tử vong do cháy
+-    Acute hepatitis fatalities              Số ca tử vong do viêm gan cấp
+-    Measles fatalities                      Số ca tử vong do bệnh sởi
 
 ## Các quốc gia có trong dataset:
     Afghanistan
