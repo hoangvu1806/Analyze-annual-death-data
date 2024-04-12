@@ -35,6 +35,8 @@ Kỹ thuật:
 - Hệ thống hỗ trợ quyết định (DSS): Cung cấp cho người dùng thông tin và công cụ để đưa ra quyết định.
 - Tối ưu hóa: Tìm ra giải pháp tốt nhất cho một vấn đề cụ thể.
 
+## Phiên dịch các loại nguyên nhân tử vong
+
 -    Meningitis fatalities                   Số ca tử vong do bệnh viêm màng não
 -    Dementia fatalities                     Số ca tử vong do bệnh mất trí
 -    Parkinson’s fatalities                  Số ca tử vong do bệnh Parkinson
